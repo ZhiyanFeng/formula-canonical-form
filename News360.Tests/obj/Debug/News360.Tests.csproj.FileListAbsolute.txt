@@ -1,0 +1,7 @@
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\bin\Debug\News360.Tests.dll
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\bin\Debug\News360.Tests.pdb
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\bin\Debug\News360.exe
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\bin\Debug\News360.pdb
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\obj\Debug\News360.Tests.csprojResolveAssemblyReference.cache
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\obj\Debug\News360.Tests.dll
+c:\Users\zfeng\Documents\Visual Studio 2013\Projects\News360\News360.Tests\obj\Debug\News360.Tests.pdb

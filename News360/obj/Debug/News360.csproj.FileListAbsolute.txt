@@ -1,0 +1,6 @@
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\bin\Debug\News360.exe.config
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\bin\Debug\News360.exe
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\bin\Debug\News360.pdb
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\obj\Debug\News360.csprojResolveAssemblyReference.cache
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\obj\Debug\News360.exe
+c:\users\zfeng\documents\visual studio 2013\Projects\News360\News360\obj\Debug\News360.pdb
